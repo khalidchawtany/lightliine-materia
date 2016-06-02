@@ -78,6 +78,6 @@ let s:p.tabline.tabsel = [
 
 let g:lightline#colorscheme#material#palette = s:p
 
-let g:lightline.colorscheme = 'material'
-call lightline#init()
-call lightline#update()
+"let g:lightline.colorscheme = 'material'
+"call lightline#init()
+"call lightline#update()
